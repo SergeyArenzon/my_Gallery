@@ -1,0 +1,22 @@
+img{
+    float: left;
+   
+    width: 30%;
+    margin: 1.66%;
+    
+}
+h1{
+    
+    font-family: 'Kosugi Maru', sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 1.66%;
+    font-weight: 800;
+    width: 30% ;
+}
+
+#title{
+    margin-left: 1.66%;
+    border-bottom: 2px solid rgba(167, 166, 166, 0.616);
+    padding-bottom: 20px;
+    width: 30%
+}
